@@ -12,7 +12,6 @@
 		6E2365CC1D07BCB100F0BEBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E2365CA1D07BCB100F0BEBD /* Main.storyboard */; };
 		6E2365CE1D07BCB100F0BEBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E2365CD1D07BCB100F0BEBD /* Assets.xcassets */; };
 		6E2365D11D07BCB100F0BEBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E2365CF1D07BCB100F0BEBD /* LaunchScreen.storyboard */; };
-		6E2365DA1D07BCDB00F0BEBD /* chu zing_mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E2365D81D07BCDB00F0BEBD /* chu zing_mp3.jpg */; };
 		6E2365DB1D07BCDB00F0BEBD /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E2365D91D07BCDB00F0BEBD /* zing-mp3.jpg */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +23,6 @@
 		6E2365CD1D07BCB100F0BEBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E2365D01D07BCB100F0BEBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E2365D21D07BCB100F0BEBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6E2365D81D07BCDB00F0BEBD /* chu zing_mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chu zing_mp3.jpg"; sourceTree = "<group>"; };
 		6E2365D91D07BCDB00F0BEBD /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zing-mp3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +56,6 @@
 		6E2365C51D07BCB100F0BEBD /* Zing - TienSon */ = {
 			isa = PBXGroup;
 			children = (
-				6E2365D81D07BCDB00F0BEBD /* chu zing_mp3.jpg */,
 				6E2365D91D07BCDB00F0BEBD /* zing-mp3.jpg */,
 				6E2365C61D07BCB100F0BEBD /* AppDelegate.swift */,
 				6E2365C81D07BCB100F0BEBD /* ViewController.swift */,
@@ -131,7 +128,6 @@
 				6E2365D11D07BCB100F0BEBD /* LaunchScreen.storyboard in Resources */,
 				6E2365DB1D07BCDB00F0BEBD /* zing-mp3.jpg in Resources */,
 				6E2365CE1D07BCB100F0BEBD /* Assets.xcassets in Resources */,
-				6E2365DA1D07BCDB00F0BEBD /* chu zing_mp3.jpg in Resources */,
 				6E2365CC1D07BCB100F0BEBD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,6 +292,7 @@
 				6E2365D71D07BCB100F0BEBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
